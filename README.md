@@ -8,8 +8,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Hygge1024}/count.svg)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark) 
-
 
 ![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
 
